@@ -1,6 +1,6 @@
 # Responsive Web Design and Development Class for Fall 2016
 
-SMU CAPE responsive web design and development class for the Spring 2017 cohort. [http://www.smu.edu/CAPE/ProfessionalDevelopment/CertificatePrograms/WebDesign]
+SMU CAPE responsive web design and development class for the Spring 2017 cohort. [http://www.smu.edu/CAPE/ProfessionalDevelopment/WebDesign]
 
 ## What Will You Find Here?
 
